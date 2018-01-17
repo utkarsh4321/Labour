@@ -1,0 +1,238 @@
+		.icon-bar{
+				
+				
+				background-color: #fff;
+			}
+			a{
+				
+				color:#fff;
+				
+			}
+			#particles-js{
+				
+				background: url('pexels-photo-57690.jpeg') no-repeat;
+				background-size:cover;
+				width:100%;
+				height:100vh;
+				position: relative;
+				
+		z-index:2;
+			}
+			#col{
+				position: absolute;
+				top:20%;
+				left:0;
+				
+			}
+			
+			
+			#log{
+				padding:30px;
+			background-color:rgba(0,0,0,.5);
+				box-shadow: 10px 10px 20px rgba(255,255,255,.5);
+				color:#fff;
+				z-index:1;
+				
+			}
+		
+			h3{
+				text-align:center;
+				
+			}
+			.active{
+				
+				color:#fff;
+				font-size:14px;
+				
+			}
+			input[type="text"],input[type="password"]{
+				
+				border:none;
+				border-bottom:2px solid #262626;
+				outline:none;
+		color:#fff;
+				background:transparent;
+				font-size:16px;
+				padding-left:20px;
+				box-sizing: border-box;
+				
+			}
+			
+			::placeholder
+			{
+			color:rgba(0,0,0,.5);
+				
+				
+			}
+			.form-group{
+				position: relative;
+				
+			}
+			.form-group span{
+				
+				position: absolute;
+				top:7px;
+				
+			}
+			input[type="submit"]{
+				border:none;
+				outline:none;
+				
+				
+			}
+
+			.fa-user-circle{
+				font-size:100px;
+				margin:0 auto;
+				display: block;
+				margin-bottom: 20px;
+				margin-left:37%;
+				
+			}
+			@media only screen and (max-width: 768px) {
+				
+				.fa-user-circle{
+					margin-left: 37px;
+					
+				}
+				
+			}
+			/* #pop{
+				color:#fff;
+				
+				
+			}
+			
+			
+						#footer{
+				
+				background-color:#000;
+				color:#fff;;
+			}
+			
+				
+			
+			
+			 
+			.fa-facebook:hover{
+				color:#0099cc;
+				
+			}
+			
+			
+			
+						 .fa-twitter:hover{
+							color:#1DA1F2;
+							
+}
+						 .fa-google-plus:hover{
+							color:red;
+							
+							
+}
+			.fa-youtube-play:hover{
+				color:#D11811;
+				
+				
+			}
+		
+			#akash{
+background-color: #fff;
+			color:#000;
+			
+			}		
+			ul{ 
+				
+				margin:0;
+				padding:0;
+				list-style-type:none;
+				
+				
+			} */
+		/* footer */
+
+		/* body{
+			margin:0;
+			padding:0;
+			font-family: 'Lobster', cursive;                    /* font-family: 'Lobster', cursive;
+font-family: 'Timmana', sans-serif;
+font-family: 'Racing Sans One
+			', cursive;
+font-family: 'Merienda One', cursive;
+			font-size:100%;*/
+			
+		
+	
+
+			
+			
+
+		h4{
+			
+font-family: 'Racing Sans One', cursive;
+			font-size:30px;
+			
+		}
+		#footer{
+			
+			background-color:#000;
+			color:#fff;
+			font-family: 'Merienda One', cursive;
+			padding:50px;
+			text-align: justify;
+		}
+		 .fa-facebook-square{
+			 color:#0099cc;
+			
+							 font-size:50px;
+			 padding-left:7px;
+
+			 
+			 
+}
+					 .fa-twitter-square{
+						color:#1DA1F2;
+						 line-height:1.3em;
+			font-size:50px;
+						 padding-left:7px;
+						
+}
+					 .fa-google-plus-square{
+						color:red;
+										 font-size:50px;
+padding-left:7px;
+						
+						
+}
+.fa-github-square{
+	font-size: 50px;
+padding-left: 10px;
+color:#333;
+}
+
+
+		ul{
+			list-style-type: none;
+			margin:0;
+			padding:0;
+			
+			
+			
+		}
+		p{
+			line-height:1.6em;
+			font-size:16px;
+			
+			
+		}
+		li{
+			line-height:1.3em;
+			font-size:16px;
+			
+			
+		}
+		#section-a{
+padding-left:15rem;
+
+		}
+
